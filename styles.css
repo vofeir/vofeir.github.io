@@ -1,0 +1,32 @@
+.navbar{
+  opacity:0.9
+}
+.baraja {
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+.baraja div {
+  margin: 8px;
+}
+.baraja div div {
+  margin: 0;
+}
+.baraja div a {
+  text-decoration: none;
+}
+.mySlides {
+  display:none;
+}
+.w3-left, .w3-right, .w3-badge {
+  cursor:pointer;
+}
+.w3-badge {
+  height:13px;
+  width:13px;
+  padding:0;
+}
